@@ -1,0 +1,12 @@
+* ideas
+** compare parametrization of probabilities to parametrization of triangles
+** A Nietzschean Critique of Cartesion Probability Metrics
+Nietzsche criticizes Descartes for elevating an artifice of grammar
+(the Cartesian ego) to a foundation for metaphysics. There is a
+tendency in the literature of formal epistemology to understand
+categorical probability distributions geometrically in terms of
+Cartesian coordinates. The $n-1$-dimensional simplex becomes the
+manifold of categorical probability distributions for $n$ categories,
+and the individual probabilities associated with the categories are
+represented by the Cartesian coordinates of points on the simplex.
+* buffer
